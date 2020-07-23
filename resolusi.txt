@@ -3,6 +3,7 @@ RESOLUSI
       *SAW
          ^ CI
          ^ LARAVEL
+         ^ Django
       *TOPSIS
    -BUAT APLIKASI KUIS
    -BUAT APLIKASI SHORTEST PATH
