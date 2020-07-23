@@ -1,8 +1,7 @@
 Rencana Resolusi
   -Buat Kelas Online
     * Kelas PHP
-      ^ Struktur data
-      ^ Algoritma
+      ^ Struktur data dan algoritma
     * Kelas JS
   -Buat Web Jualan Software
     
