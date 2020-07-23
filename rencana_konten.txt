@@ -1,4 +1,6 @@
 Rencana Resolusi
   -Buat Kelas Online
+    * Kelas PHP
+    * Kelas JS
   -Buat Web Jualan Software
     
