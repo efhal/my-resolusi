@@ -1,6 +1,8 @@
 RESOLUSI 
    -BUAT APLIKASI DSS
       *SAW
+         ^ CI
+         ^ LARAVEL
          ^ Django
       *TOPSIS
    -BUAT APLIKASI KUIS
